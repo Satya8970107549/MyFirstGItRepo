@@ -25,12 +25,12 @@ public class A {
 		
 		// 2nd way 
 		
-		syso
+		
 		for(int i =0 ; i<= chars.length ; i++) {
 			
 			if(chars[i] != chars[i+1]) {
 				
-				
+				System.out.println("AAAAA");
 			}
 			
 		}
