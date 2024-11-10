@@ -30,7 +30,7 @@ public class A {
 			
 			if(chars[i] != chars[i+1]) {
 				
-				System.out.println("AAAAA");
+				System.out.println("AA");
 			}
 			
 		}
